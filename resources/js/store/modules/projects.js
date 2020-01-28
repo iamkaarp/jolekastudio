@@ -9,14 +9,14 @@ export default {
         get: state => state.projects,
     },
     mutations: {
-        setUp(state, data) {
+        setup(state, data) {
             state.projects = data;
         },
     },
     actions: {
         setup({ commit }) {
             let data = Mock;
-            commit('setUp', data);
+            commit('setup', data);
         },
     },
 };

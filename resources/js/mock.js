@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         title: 'Test',
-        description: ':)',
+        description: 'Lite skit är skrivet i denna men ibland måste man ha mycket text',
         image: '../../projects/block.jpg',
     },
     {

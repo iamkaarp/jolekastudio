@@ -13,4 +13,4 @@ const app = new Vue({
     el: '#app',
 });
 
-app.$store.dispatch('projects/setUp');
+app.$store.dispatch('projects/setup');

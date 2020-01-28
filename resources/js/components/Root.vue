@@ -1,5 +1,5 @@
 <template>
-    <div class="container mx-auto">
+    <div class="container mx-auto overflow-y">
         <div class="mt-16">
             <Logo />
         </div>
