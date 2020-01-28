@@ -1,0 +1,27 @@
+.container {
+    max-width: 100%;
+}
+
+@screen sm {
+    .container {
+        max-width: 640px;
+    }
+}
+
+@screen md {
+    .container {
+        max-width: 768px;
+    }
+}
+
+@screen lg {
+    .container {
+        max-width: 950px;
+    }
+}
+
+@screen xl {
+    .container {
+        max-width: 950px;
+    }
+}

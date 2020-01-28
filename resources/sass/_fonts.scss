@@ -1,0 +1,17 @@
+// Font awesome
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css');
+
+// Keep Calm
+@font-face {
+    font-family: 'Keep Calm';
+    src: url('../fonts/KeepCalm-Medium.ttf') format('truetype');
+}
+
+.keep-calm {
+    font-family: 'Keep Calm';
+    text-transform: uppercase;
+}
+
+.tracking-ultra-wide {
+    letter-spacing: 12px;
+}
